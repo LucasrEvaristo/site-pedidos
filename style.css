@@ -19,8 +19,6 @@ body{
 }
 
 section{
-    align-items: center;
-    text-align: center;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -31,8 +29,8 @@ section{
 .imagem-secundaria{
     border-top-right-radius: 15px;
     border-top-left-radius: 15px;
- width: auto;
- height: auto;
+    width: auto;
+    height: auto;
 }
 
 div{
@@ -71,6 +69,7 @@ div{
    
    text-decoration: none;
    color: blue;
+   
 }
 
 
@@ -88,6 +87,7 @@ div{
     text-align: center;
     
 }
+
 
 .botao{
     margin: 1em;
